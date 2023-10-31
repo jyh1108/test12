@@ -40,5 +40,5 @@ public class Main {
 class 강의자료 {
     String 제목;
     String 내용;
-    static String 저자 = "박병규";
+    static String 저자 = "박병규1";
 }
